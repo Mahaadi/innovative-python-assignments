@@ -1,4 +1,4 @@
-# Done by me
+# Done with basic loop and conditional knowledge.
 # n=int(input("n = "))
 # x=1
 # while n >= x:
